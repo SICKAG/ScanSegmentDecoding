@@ -6,9 +6,6 @@ This project contains modules and functions written in Python to receive scan se
 
 This project relies on [Poetry](https://python-poetry.org/) for dependency management and execution of the virtual python environment. Detailed installation instructions for each platform can be found [here](https://python-poetry.org/docs/).
 
-## Important for users inside the SICK Network
-The project is configured to work outside of the SICK network. **If you want to use it inside the SICK network run the `setup_repo_sicknetwork.bat` script.**
-
 ## Build and deploy locally with poetry
 
 ```
